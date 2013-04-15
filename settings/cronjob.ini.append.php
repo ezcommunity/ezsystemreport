@@ -3,6 +3,6 @@
 # for future developments...
 
 #[CronjobSettings]
-#ExtensionDirectories[]=ggsysinfo
+#ExtensionDirectories[]=ezsystemreport
 
 */ ?>

@@ -4,9 +4,9 @@
 Part[ezsysinfonavigationpart]=System Information
 
 [TopAdminMenu]
-Tabs[]=ggsysinfo
+Tabs[]=sysinfo
 
-[Topmenu_ggsysinfo]
+[Topmenu_sysinfo]
 Name=System Information
 Tooltip=Display detailed system information
 URL[default]=sysinfo/index

@@ -1,7 +1,7 @@
 <?php /*
 
 [ModuleSettings]
-ExtensionRepositories[]=ggsysinfo
+ExtensionRepositories[]=ezsystemreport
 
 ModuleList[]=sysinfo
 

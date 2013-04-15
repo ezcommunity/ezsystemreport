@@ -1,10 +1,10 @@
 <?php /*
 
 [TemplateSettings]
-ExtensionAutoloadPath[]=ggsysinfo
+ExtensionAutoloadPath[]=ezsystemreport
 
 [RegionalSettings]
-TranslationExtensions[]=ggsysinfo
+TranslationExtensions[]=ezsystemreport
 
 [RoleSettings]
 # There is no need to comment this out to insure proper security.
@@ -19,7 +19,7 @@ PolicyOmitList[]=sysinfo
 CacheItems[]=sysinfo
 
 [Cache_sysinfo]
-name=ggSysInfo extension graph cache
+name=eZSystemReport extension graph cache
 path=sysinfo
 
 */ ?>

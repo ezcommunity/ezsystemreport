@@ -1,6 +1,6 @@
 <?php /*
 
 [ExtensionSettings]
-DesignExtensions[]=ggsysinfo
+DesignExtensions[]=ezsystemreport
 
 */?>

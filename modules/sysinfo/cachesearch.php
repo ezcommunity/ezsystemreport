@@ -1,8 +1,7 @@
 <?php
 /**
  *
- * @author G. Giunta
- * @copyright (C) G. Giunta 2008-2012
+ * @copyright (C) eZ Systems AS 2008-2013
  * @license Licensed under GNU General Public License v2.0. See file license.txt
  *
  * @todo add support for offset, to facilitate display of long searches results

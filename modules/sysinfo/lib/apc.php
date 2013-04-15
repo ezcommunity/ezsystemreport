@@ -4,7 +4,7 @@
  *
  * patches applied are marked with a //// BEGIN, //// END comment tag pair
  *
- * @author G. Giunta - see copyright statement below for more info
+ * @author eZ Systems AS - see copyright statement below for more info
  * @version $Id$
  */
 if ( !defined( 'EZCBASE_ENABLED' ) )

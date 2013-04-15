@@ -2,8 +2,7 @@
 /**
  * Class used to help managing in a single place all module/view info
  *
- * @author G. Giunta
- * @copyright (C) G. Giunta 2010-2012
+ * @copyright (C) eZ Systems AS 2010-2013
  * @license Licensed under GNU General Public License v2.0. See file license.txt
  */
 

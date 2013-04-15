@@ -5,7 +5,7 @@
  *
  * patches applied are marked with a ////
  *
- * @author G. Giunta - see copyright statement below for more info
+ * @author eZ Systems AS - see copyright statement below for more info
  * @version $Id: apc.php 1 2008-12-04 15:32:20Z gg $
  */
 if ( !defined( 'EZCBASE_ENABLED' ) )
