@@ -1,7 +1,9 @@
-Extension ggsysinfo for eZ publish
-===================================
+Extension eZSystemReport for eZ publish
+=======================================
 
-Goals:
+The ultimate tool for eZ Publish auditors, developers and system administrators.
+
+Some features:
 
 Allow eZ Publish administrators to have better insight into their working installation:
 - have the complete informations from the phpinfo() page within the eZ Publish admin interface
@@ -16,12 +18,13 @@ Some pages that can be of help to developers too:
 - all available fetch functions
 - all available policy functions
 - all available policy module operations
+Command-line scripts are alo provided to gather all information in hzandy reports - both about eZ and the underlying stack.
 
 Requirements:
 
 - eZ Publish 4.0 or later
 - eZ Publish cluster mode is not supported yet for the cache info part
-- Zend Accelerator, Turck MMCache and IonCube are not supported for the opcode cache part
+- Zend Accelerator, Turck MMCache, OPCache and IonCube are not supported for the opcode cache part
 - the GD extension to php is needed to produce graphs (eg. in the storage churn page)
 - the ezgeshi extension ver. 1.3 or later is an optional add-on that will add some functionality
 
