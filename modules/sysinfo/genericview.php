@@ -2,8 +2,8 @@
 /**
  * A script that gathers the common parts of all views of the sysinfo module
  *
- * @copyright (C) eZ Systems AS 2010-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
  *
  * @todo use a 3-level path, with the name of the group as 2nd element ?
  */

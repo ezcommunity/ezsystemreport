@@ -5,8 +5,8 @@
  * - not using any template or custom ini
  * - using a custom autoloader
  *
- * @copyright (C) eZ Systems AS 2012-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
  *
  * @todo add option for output format: CSV, XML, ...
  */

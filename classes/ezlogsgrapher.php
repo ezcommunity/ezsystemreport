@@ -1,7 +1,7 @@
 <?php
 /**
- * @copyright (C) GeZ Systems AS 2008-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
  */
 
 /// @todo see if using a static method instead of plain func works

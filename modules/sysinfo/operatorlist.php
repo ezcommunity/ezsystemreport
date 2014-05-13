@@ -2,8 +2,8 @@
 /**
  * List all existing tpl ops (optionally, in a given extension)
  *
- * @copyright (C) eZ Systems AS 2012-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
  *
  */
 

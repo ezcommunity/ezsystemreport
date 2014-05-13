@@ -4,8 +4,8 @@
  * For every test, 1 = OK, 0 = KO and X = NA. ? = test not yet implemented
  * NB: some tests are enabled/disabled depending upon config in sysinfo.ini
  *
- * @copyright (C) eZ Systems AS 2008-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
 */
 
 $format = $Params['output_format'];

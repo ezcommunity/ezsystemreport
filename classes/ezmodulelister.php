@@ -3,8 +3,8 @@
  * Class that scans all active module definitions
  * Copied here from ezwebservicesapi and renamed to avoid clashes
  *
- * @copyright (C) eZ Systems AS 2010-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
  */
 
 class eZModuleLister

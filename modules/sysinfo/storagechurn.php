@@ -2,8 +2,8 @@
 /**
  * Create a graph of files-per-minute by analyzing storage.log
  *
- * @copyright (C) eZ Systems AS 2008-2013
- * @license Licensed under GNU General Public License v2.0. See file license.txt
+ * @copyright Copyright (C) eZ Systems AS. All rights reserved.
+ * @license For full copyright and license information view LICENSE file distributed with this source code.
  *
  * @todo add support for user-selected start and end date
  * @todo support coarser intervals than 60 secs
